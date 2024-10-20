@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeff131-8c10-41b3-abe5-47beddb3662d" name="Changes" comment="Here">
+    <list default="true" id="feeff131-8c10-41b3-abe5-47beddb3662d" name="Changes" comment="Page object model practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/AccountPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/AccountPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/AccountSuccessPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/AccountSuccessPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/HomePage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/LoginPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/RegisterPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/RegisterPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/SearchPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/SearchPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Register.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +54,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_Login.test_login_with_invalid_email_and_valid_password.executor": "Run",
-    "Python tests.Python tests for test_Login.test_login_with_valid_credentials.executor": "Run",
-    "Python tests.Python tests for test_Register.test_register_with_all_fields.executor": "Run",
-    "Python tests.Python tests for test_Register.test_register_with_duplicate_email.executor": "Run",
-    "Python tests.Python tests for test_Register.test_register_with_mandatory_fields.executor": "Run",
-    "Python tests.Python tests for test_Register.test_register_without_entering_any_fields.executor": "Run",
-    "Python tests.Python tests for test_Search.TestSearch.test_search_for_a_valid_product.executor": "Run",
-    "Python tests.Python tests for test_Search.test_search_for_an_invalid_product.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Login.test_login_with_invalid_email_and_valid_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Login.test_login_with_valid_credentials.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Register.test_register_with_all_fields.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Register.test_register_with_duplicate_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Register.test_register_with_mandatory_fields.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Register.test_register_without_entering_any_fields.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Search.TestSearch.test_search_for_a_valid_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Search.test_search_for_an_invalid_product.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_Search.TestSearch.test_search_for_a_valid_product">
     <configuration name="Python tests for test_Register.test_register_with_all_fields" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTutorialsninjaPythonFramework" />
@@ -170,11 +179,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728974863853</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Page object model practice">
+      <option name="closed" value="true" />
+      <created>1729165466022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729165466022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Here" />
-    <option name="LAST_COMMIT_MESSAGE" value="Here" />
+    <MESSAGE value="Page object model practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page object model practice" />
   </component>
 </project>
