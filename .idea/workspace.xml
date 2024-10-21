@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="feeff131-8c10-41b3-abe5-47beddb3662d" name="Changes" comment="Page object model practice 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExcelFiles/TutorialsNinja.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFiles/TutorialsNinja.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/BaseTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/BaseTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_Register.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Register.py" afterDir="false" />
-    </list>
+    <list default="true" id="feeff131-8c10-41b3-abe5-47beddb3662d" name="Changes" comment="Page object model practice 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +187,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729446625569</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Page object model practice 2">
+      <option name="closed" value="true" />
+      <created>1729495538706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729495538706</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Page object model practice 2">
+      <option name="closed" value="true" />
+      <created>1729495580780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729495580780</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
